@@ -15,7 +15,7 @@
 <a href="https://discord.gg/GY6TyMYbtC" target"blank_"><img src="https://img.shields.io/badge/Sea Team%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/osman.aslan00" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/osmannaaslan" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a src="https://komarev.com/ghpvc/?username=your-github-osmannaaslan">
+</br><img src="https://komarev.com/ghpvc/?username=osmannaaslan&color=blue"/>
 <hr />
 
 🔗 &nbsp; **Software Languages**
