@@ -7,7 +7,7 @@
    </a>
 </div>
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="Samael"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SeaVortex&theme=dark&show_icons=true&locale=en" alt="SeaVortex"  ></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmannaaslan&theme=dark&show_icons=true&locale=en&layout=compact" alt="Samael"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=osmannaaslan&theme=dark&show_icons=true&locale=en" alt="Samael"  ></p>
 <hr />
 
 🔗 &nbsp;**Contact with me**
