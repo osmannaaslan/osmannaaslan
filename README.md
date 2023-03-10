@@ -9,7 +9,7 @@
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=osmannaaslan&theme=dark&show_icons=true&locale=en&layout=compact" alt="Samael"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=osmannaaslan&theme=dark&show_icons=true&locale=en" alt="Samael"  ></p>
 <hr />
-
+<!--
 🔗 &nbsp;**Contact with me**
 <p align="left">
 <a href="https://discord.gg/GY6TyMYbtC" target"blank_"><img src="https://img.shields.io/badge/Sea Team%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -17,6 +17,7 @@
 <a href="https://instagram.com/osmannaaslan" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=osmannaaslan&color=blue"/>
 <hr />
+-->
 
 🔗 &nbsp; **Software Languages**
 <p align="left">  
